@@ -1,0 +1,12 @@
+{
+  "name": "eloquentexercises",
+  "version": "1.0.0",
+  "description": "Completing all of the exercises in the Eloquent Javascript book (3rd Edition 2018)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
